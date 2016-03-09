@@ -16,8 +16,10 @@
 	],
 	"settings":
 	{
+		"tab_size": 4,
 		"anaconda_linting": true,
 		"python_interpreter": "c:\\Python34\\python.exe",
-		"validate_imports": true
+		"validate_imports": true,
+		"use_pylint": false,
 	}
 }
